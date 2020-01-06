@@ -1,2 +1,0 @@
-User-agent: *
-Disallow: /file:///C:/Users/User/Documents/Google%20Website/index.html
